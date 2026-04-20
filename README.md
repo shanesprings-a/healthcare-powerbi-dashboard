@@ -89,7 +89,7 @@ To analyze healthcare data and identify trends in patient distribution, admissio
 - patient-overview.png  
 
 📊 **Power BI Report File:**  
-[Download the full Power BI report](./healthcare-analytics-report.pbix)
+[Click here to download and explore the report](./healthcare-analytics-report.pbix)
 ---
 
 ## 💡 What This Project Demonstrates
