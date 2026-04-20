@@ -88,6 +88,8 @@ To analyze healthcare data and identify trends in patient distribution, admissio
 - cost-vs-stay.png  
 - patient-overview.png  
 
+📊 **Power BI Report File:**  
+[Download the full Power BI report](./healthcare-analytics-report.pbix)
 ---
 
 ## 💡 What This Project Demonstrates
