@@ -1,11 +1,29 @@
-# 📊 Healthcare Analytics Dashboard (Power BI)
+# 📊 Healthcare Analytics Report (Power BI)
 
 ---
 
-## 📊 Project Overview
+## 📊 Report Overview
 This project presents a multi-page Power BI dashboard analyzing healthcare data, focusing on patient demographics, billing trends, and length of stay.
 
 It demonstrates how data visualization and modeling can be used to uncover insights and support data-driven decision-making in a healthcare setting.
+
+---
+
+## 📸 Report Preview
+
+This multi-page Power BI report provides interactive insights across key healthcare metrics, including patient demographics, billing patterns, and length of stay.
+
+### Insurance & Admissions
+![Insurance Report](./insurance-admissions.png)
+
+### Demographics
+![Demographics Report](./demographics.png)
+
+### Cost vs Length of Stay
+![Cost vs Stay](./cost-vs-stay.png)
+
+### Patient & Condition Overview
+![Patient Overview](./patient-overview.png)
 
 ---
 
