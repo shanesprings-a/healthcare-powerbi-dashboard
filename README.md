@@ -92,6 +92,14 @@ To analyze healthcare data and identify trends in patient distribution, admissio
 [Click here to download and explore the report](./healthcare-analytics-report.pbix)
 ---
 
+## ▶️ How to Use
+1. Review the dashboard preview images above  
+2. Use filters (slicers) to explore different patient segments  
+3. Analyze trends across demographics, billing, and length of stay  
+4. Navigate between report pages for deeper insights
+
+---
+
 ## 💡 What This Project Demonstrates
 - Data modeling and transformation in Power BI  
 - Dashboard design and user experience  
