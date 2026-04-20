@@ -42,7 +42,7 @@ To analyze healthcare data and identify trends in patient distribution, admissio
 
 ## 📊 Dashboard Features
 
-### 🔹 Insurance & Admissions
+### 🔹 Insurance & Admission
 - Average billing by insurance provider  
 - Patient distribution by admission type  
 - Key KPIs (average billing, average stay, patient count)  
